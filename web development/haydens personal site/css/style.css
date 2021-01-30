@@ -1,0 +1,13 @@
+  body{
+    background-color: linen;
+
+  }
+  hr {
+      border: 3px dotted #ccb4b4;
+      justify-content: center;
+      width: 4%;
+      border-style: none none dotted;
+  }
+  h1, h3 {
+    color: #66fbfb;
+  }
