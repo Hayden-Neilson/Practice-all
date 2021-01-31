@@ -3,9 +3,9 @@
 
   }
   hr {
-      border: 3px dotted #ccb4b4;
-      justify-content: center;
+      border: dotted #ccb4b4;
       width: 4%;
+      border-width: 5px;
       border-style: none none dotted;
   }
   h1, h3 {
