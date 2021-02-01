@@ -2,7 +2,6 @@ body {
     color: #40514E;
     margin: 0;
     text-align: center;
-    padding-bottom: 20px;
     font-family: 'Merriweather', serif;
   }
   
@@ -155,6 +154,7 @@ body {
     cursor: pointer;
  
     text-align: center;
+    
  
  }
  
